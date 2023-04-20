@@ -1,0 +1,4 @@
+- Square selection
+- Free-form selection
+- Window selection
+- Fullscreen
